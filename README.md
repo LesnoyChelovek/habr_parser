@@ -51,3 +51,6 @@ python habr.py -l <URL> [-o <имя_файла.html>] [--timeout <секунды
     ```bash
     python habr.py -l https://habr.com/ru/companies/beget/ --timeout 15
     ```
+=======
+# habr_parser
+Парсер статистики статей в блогах компаний на Хабре
